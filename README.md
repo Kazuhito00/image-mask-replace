@@ -16,18 +16,27 @@
 ・capture/image
 
 　→オリジナル画像
+ 
+![00001](https://user-images.githubusercontent.com/37477845/77141041-de0dd380-6abe-11ea-8bb4-9db4a9c6275e.png)
+
 
 ・capture/mask
 
 →オリジナル画像に対するマスク画像
 
+![00001](https://user-images.githubusercontent.com/37477845/77141042-e108c400-6abe-11ea-8e64-069606f4ff48.png)
+
 ・capture/replace
 
 →差し替え画像
 
+![005KZ1123FOTO_TP_V4](https://user-images.githubusercontent.com/37477845/77141047-e403b480-6abe-11ea-84f4-1958090452ef.jpg)
+
 ・capture/output
 
 →合成後ファイル保存先
+
+![00001_001](https://user-images.githubusercontent.com/37477845/77141051-e6fea500-6abe-11ea-9a9e-a5deb7ab1af3.png)
  
 # Usage
  
