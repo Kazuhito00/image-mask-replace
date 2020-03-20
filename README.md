@@ -12,6 +12,18 @@
 # Installation
  
 ディレクトリを丸ごとコピーして実行してください。
+
+・capture/image
+　→オリジナル画像
+
+・capture/mask
+　→オリジナル画像に対するマスク画像
+
+・capture/replace
+　→差し替え画像
+
+・capture/output
+　→合成後ファイル保存先
  
 # Usage
  
@@ -28,19 +40,6 @@ python image_mask_replace.py
 --height：合成後の画像サイズ(高さ)
 
 --original：合成前の画像を保存するか(True/False)
-
-・capture/image
-　→オリジナル画像
-
-・capture/mask
-　→オリジナル画像に対するマスク画像
-
-・capture/replace
-　→差し替え画像
-
-・capture/output
-　→合成後ファイル格納先
-
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
