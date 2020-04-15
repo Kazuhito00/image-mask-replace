@@ -58,6 +58,6 @@ python image_mask_replace.py
 高橋かずひと(https://twitter.com/KzhtTkhs)
  
 # License 
-cvoverlayimg is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+image-mask-replace is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
 また、サンプルの差し替え画像は[フリー素材ぱくたそ](https://www.pakutaso.com)様の写真を利用しています。
