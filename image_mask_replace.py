@@ -106,7 +106,7 @@ def main():
         # オリジナル画像(リサイズ)保存 ###########################################
         if is_save_original:
             save_filename = os.path.join(
-                path_output, image_filename + '_{:03}.png'.format(0))
+                path_output, image_filename + '_{:03}.jpg'.format(0))
             resize_image = image_resize(image)
             cv.imwrite(save_filename, resize_image)
 
@@ -123,7 +123,7 @@ def main():
                 resize_r_image)
 
             save_filename = os.path.join(
-                path_output, image_filename + '_{:03}.png'.format(i + 1))
+                path_output, image_filename + '_{:03}.jpg'.format(i + 1))
 
             cv.imwrite(save_filename, result_image)
             print('save:' + save_filename)
